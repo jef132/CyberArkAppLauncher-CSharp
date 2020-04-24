@@ -1,5 +1,5 @@
 # CyberArkAppLauncherGUI-CSharp
-CyberArk Application Launcher - C Sharp
+CyberArk Application Launcher GUI - C Sharp
 
 ![ScreenShot](https://raw.githubusercontent.com/jef132/CyberArkAppLauncher-CSharp/master/C-Sharp.PNG)
 
