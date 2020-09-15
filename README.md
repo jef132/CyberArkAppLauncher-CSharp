@@ -6,7 +6,7 @@ CyberArk Application Launcher GUI - C Sharp
 
 **Overview**
 
-Small App that can be use to allow users to launch applications installed on Cyberark PSM servers written in C#.
+Small App that can be used to allow users to launch applications installed on Cyberark PSM servers written in C#.
 RestSharp library is used for REST API calls.
 
 **Details**
